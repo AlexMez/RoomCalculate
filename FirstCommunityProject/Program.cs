@@ -16,7 +16,7 @@ namespace FirstCommunityProject
             //Console.WriteLine("Welcome to classroom area and perimeter App");
             {
 
-
+                Console.WriteLine("i am writing this to show changes using github etc..");
                 //get Length, Width and Height from user
                 Console.Write("Enter the Lenghth of the classroom in inches: ");
                 string inputLength = Console.ReadLine();
